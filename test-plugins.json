@@ -1,0 +1,34 @@
+[
+	{
+		"DisplayName": "Dictionary",
+		"PackageName": "SuperMemoAssistant.Plugins.Dictionary",
+		"Description": "Quickly lookup word definitions from the dictionary",
+		"Author": "SuperMemo.wiki",
+		"UpdatedAt": "",
+		"Rating": -1
+	},
+	{
+		"DisplayName": "Import++",
+		"PackageName": "SuperMemoAssistant.Plugins.Import",
+		"Description": "Better web imports : RSS & Atom feeds ; Html filters ; Chrome & Firefox imports ; ...",
+		"Author": "SuperMemo.wiki",
+		"UpdatedAt": "",
+		"Rating": -1
+	},
+	{
+		"DisplayName": "LaTeX",
+		"PackageName": "SuperMemoAssistant.Plugins.LaTeX",
+		"Description": "Use LaTeX right in SuperMemo",
+		"Author": "SuperMemo.wiki",
+		"UpdatedAt": "",
+		"Rating": -1
+	},
+	{
+		"DisplayName": "PDF",
+		"PackageName": "SuperMemoAssistant.Plugins.PDF",
+		"Description": "Adds support for the PDF format in SuperMemo",
+		"Author": "SuperMemo.wiki",
+		"UpdatedAt": "",
+		"Rating": -1
+	}
+]
