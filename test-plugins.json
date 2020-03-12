@@ -5,7 +5,8 @@
 		"Description": "Quickly lookup word definitions from the dictionary",
 		"Author": "SuperMemo.wiki",
 		"UpdatedAt": "",
-		"Rating": -1
+		"Rating": -1,
+		"Labels": [ "Official" ]
 	},
 	{
 		"DisplayName": "Import++",
@@ -13,7 +14,8 @@
 		"Description": "Better web imports : RSS & Atom feeds ; Html filters ; Chrome & Firefox imports ; ...",
 		"Author": "SuperMemo.wiki",
 		"UpdatedAt": "",
-		"Rating": -1
+		"Rating": -1,
+		"Labels": [ "Official" ]
 	},
 	{
 		"DisplayName": "LaTeX",
@@ -21,7 +23,8 @@
 		"Description": "Use LaTeX right in SuperMemo",
 		"Author": "SuperMemo.wiki",
 		"UpdatedAt": "",
-		"Rating": -1
+		"Rating": -1,
+		"Labels": [ "Official" ]
 	},
 	{
 		"DisplayName": "PDF",
@@ -29,6 +32,7 @@
 		"Description": "Adds support for the PDF format in SuperMemo",
 		"Author": "SuperMemo.wiki",
 		"UpdatedAt": "",
-		"Rating": -1
+		"Rating": -1,
+		"Labels": [ "Official" ]
 	}
 ]
