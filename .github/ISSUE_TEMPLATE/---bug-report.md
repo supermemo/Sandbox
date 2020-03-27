@@ -1,32 +1,48 @@
 ---
 name: "\U0001F41B Bug report"
-about: Create a report to help us improve
+about: Send a report to help us fix a problem
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+---
+name: "\U0001F41B Bug report"
+about: Send a report to help us fix a problem
+title: ''
+labels: ''
+assignees: ''
 
-**To Reproduce**
-Steps to reproduce the behavior:
+---
+
+#### Describe the bug
+A clear and concise description of the issue you are experiencing. Remember, this is not a place to ask questions. For that, go to https://discord.gg/vUQhqCT.
+
+#### Steps to Reproduce
+Tell us how to reproduce this issue.
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+#### Expected behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+#### Logs, Screenshots, ...
+If applicable, add relevant files:
+- Logs (`My Documents\SuperMemoAssistant\Logs`)
+- Screenshots
+- Videos
+- Contextual file [e.g. PDF document, LaTeX formula, collection, ...]
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+#### Environment (fill where applicable)
+- **Version**: [e.g. SMA 2.0.4.89, PDF Plugin 2.0.4.10]
+- **Last version that did not exhibit the issue**:
+- **OS**: [e.g. Windows 10]
+- **OS Language**: [e.g. English (UK), French (FR)]
+- **Browser**: [e.g. Chrome 68, Safari 45]
 
-**Additional context**
+#### Additional context
 Add any other context about the problem here.
